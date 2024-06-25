@@ -1,6 +1,5 @@
-Sure! Here's a project idea involving linear regression:
 
-### Project Idea: Predicting Housing Prices
+### Project Idea: Predicting HousingPrices
 
 **Objective:**
 Develop a model to predict housing prices based on various features using linear regression.
